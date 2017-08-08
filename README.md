@@ -1,0 +1,2 @@
+# AppointmentNotificationManager
+Manages ICS appointments
