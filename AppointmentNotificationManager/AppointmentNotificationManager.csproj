@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>library</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <!-- Enabling nullable reference types and implicit usings can help modernize your code -->
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <!-- Optionally, specify LangVersion (e.g. 11 for .NET 7) -->
+    <LangVersion>11</LangVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <PackageReference Include="Microsoft.SharePointOnline.CSOM" Version="16.1.25611.12000" />
+  </ItemGroup>
+</Project>
