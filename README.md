@@ -1,1 +1,1 @@
-[![Build and Test](https://github.com/pzarebski/AppointmentNotificationManager/actions/workflows/dotnet.yml/badge.svg)](https://github.com/pzarebski/AppointmentNotificationManager/actions/workflows/dotnet.yml)
+[![Build and Test](https://github.com/pzarebski/AppointmentNotificationManager/actions/workflows/dotnet.yml/badge.svg?branch=master)](https://github.com/pzarebski/AppointmentNotificationManager/actions/workflows/dotnet.yml)
