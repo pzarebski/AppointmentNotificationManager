@@ -1,10 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Globalization;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using System.Xml.Linq;
+﻿using System.Text;
 
 namespace AppointmentNotificationManager
 {
@@ -18,7 +12,7 @@ namespace AppointmentNotificationManager
 
         }
 
-        public Appointment ReadAppintment(IAppointmentReader reader, object data)
+        public Appointment ReadAppointment(IAppointmentReader reader, object data)
         {
             return reader.Read(data);
         }
